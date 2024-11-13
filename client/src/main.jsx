@@ -3,7 +3,6 @@ import * as ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
 import Root from "./components/Root";
-import Login from "./components/Login (unused)";
 import Movies from "./components/Movies/Movies";
 import AllMovies from "./components/Movies/AllMovies";
 import AddMovie from "./components/Movies/AddMovie";
@@ -19,10 +18,6 @@ const router = createBrowserRouter([
     path: "/",
     element: <Root />,
     children: [
-      {
-        path: "login",
-        element: <Login />,
-      },
       {
       path: "addMovie",
       element: <AddMovie /> 
