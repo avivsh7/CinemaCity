@@ -16,5 +16,6 @@ Subscriptions.jsx: Presents all the members and the movies they have subscribed 
 
 AllMembers.jsx: Presents all the members and the movies they have subscribed to. A click on the movie name redirects to the specific movie page. Below there are edit, delete and "Subscribe to a new movie" buttons.
 
-Front-end was made using React Vite. 
+Front-end was made using React Vite.
+
 Back-end was made using Mongoose and Express.
