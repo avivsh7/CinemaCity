@@ -48,15 +48,7 @@ const router = createBrowserRouter([
           {
             path: "allMovies",
             element: <AllMovies />,
-          },
-          // {
-          //   path: "addMovie",
-          //   element: <AddMovie />,
-          // },
-          // {
-          //   path: "editMovie",
-          //   element: <EditMovie />,
-          // },
+          }
         ],
       },
     ],
