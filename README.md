@@ -6,7 +6,7 @@ Login.jsx: The home page of the site, username and password fields and a login b
 
 Movies.jsx: Has a menu with 2 options: all movies page and add movie page.
 
-AllMovies.jsx: Presents all movies in a list. Each movie has its name, year, image, edit and delete buttons, and a list of all the users subscriptions that watched that movie. Each movie subscription is the user name plus the date of the subscription. Below there are edit and delete buttons.
+AllMovies.jsx: Presents all movies in a list. Each movie has its name, year, image, edit and delete buttons, and a list of all the users' subscriptions that watched that movie. Each movie subscription is the user name plus the date of the subscription. Below there are edit and delete buttons.
 
 AddMovie.js: Allows users to create a new movie and has three text inputs: the movie name, genres, image url, and a date input for premiered. Below are save and cancel buttons.
 
